@@ -1,0 +1,13 @@
+{
+  "name": "WorkInProgress",
+  "version": "1.0.0",
+  "description": "Track your work tasks in parallel",
+  "main": "index.js",
+  "repository": "github.com/katomaso/wip",
+  "author": "Tomas Peterka",
+  "license": "MIT",
+  "private": false,
+  "dependencies": {
+    "lit": "^2.0.0-rc.2"
+  }
+}
