@@ -8,6 +8,8 @@
   "license": "MIT",
   "private": false,
   "dependencies": {
-    "lit": "^2.0.0-rc.2"
+    "@rollup/plugin-node-resolve": "^13.0.0",
+    "lit": "^2.0.0-rc.2",
+    "rollup": "^2.50.1"
   }
 }

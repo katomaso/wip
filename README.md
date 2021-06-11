@@ -6,6 +6,6 @@ WorkInProgress is an PWA application that helps you track progress through your 
 
 If you are waiting for something/someone then just setup yourself a reminder with repeated notifications. Are you waiting for tests that usually take 30 minutes? Set yourself reminder in 30 minutes with 10 minutes repeat. Waiting for a colleague? 1 day reminder with 2 hours repeat sounds good?
 
-## Save your work as a worksheet
+## Save your workflow
 
-Export your work as a template for other or for yourself later. Play it with all the timings that you have used.
+Did you create detailed process and want to save it for later? No problem!
